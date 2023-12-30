@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[46],{288:function(t,n,l){"use strict";l.r(n);var o=l(1),s=Object(o.a)({},(function(){var t=this._self._c;return t("div",{staticClass:"content"},[t("blog-card"),this._v(" "),t("global-footer")],1)}),[],!1,null,null,null);n.default=s.exports}}]);

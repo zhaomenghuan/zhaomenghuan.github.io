@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[86],{349:function(n,t,s){"use strict";s.r(t);var a=s(1),e=Object(a.a)({},(function(){var n=this._self._c;return n("div",{staticClass:"content"},[n("nav-page"),this._v(" "),n("global-footer")],1)}),[],!1,null,null,null);t.default=e.exports}}]);
